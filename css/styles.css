@@ -58,7 +58,6 @@ ol {
   color: #fff;
 }
 .main-title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -81,7 +80,6 @@ ol {
 }
 
 .section-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
   letter-spacing: 0.02em;
@@ -110,4 +108,11 @@ ol {
 
 .footer .content {
   color: #f4f4fd;
+}
+
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-section .team-item {
+  background-color: #fff;
 }
